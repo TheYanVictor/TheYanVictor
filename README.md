@@ -28,7 +28,7 @@
 
 -------
 
-<h2>My tastes </h2>
+<h2>What's in my head </h2>
 <img src="https://github.com/TheYanVictor/TheYanVictor/blob/main/roger-vs-barba-branca.gif" alt="This will display an animated GIF" />
 
 -------
