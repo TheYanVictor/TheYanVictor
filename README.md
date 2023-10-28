@@ -1,5 +1,7 @@
 <h1> Hi! My name is Yan :D </h1>
 
+I'm interning as a DBA in a company that concentrates on Oracle Cloud. My main areas of expertise are Oracle Database and Postgres. In addition to studying Computer Vision and AI for my Final Paper, I create apps using Flutter for academic and personal reasons. Feel free to contact me if you have any doubts, offers, or contributions. 
+
 ## :bar_chart: My Stats:
 [![profile_visits](https://komarev.com/ghpvc/?username=TheYanVictor&theme=great-gatsby&style=flat-square&label=Profile+Visits)](https://github.com/TheYanVictor "since Dec 25, 2021")
 [![profile-stars](https://img.shields.io/github/stars/TheYanVictor?label=Profile+Stars)](https://github.com/TheYanVictor)
