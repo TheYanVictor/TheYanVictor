@@ -25,11 +25,16 @@
     </a>
 </div>
 
+-------
+## Ferramentas e Tecnologias 🖥️
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" height="60" width="60"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="60" width="60"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" height="60" width="60"/> <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" height="60" width="60"/> 
+
+<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" height="50" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" height="50" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" height="50" width="50"/> <img src="https://cdn.icon-icons.com/icons2/350/PNG/512/bash_36261.png" height="50" width="50"/> 
 
 -------
 
 <h2>What's in my head </h2>
-<img src="https://github.com/TheYanVictor/TheYanVictor/blob/main/roger-vs-barba-branca.gif" alt="This will display an animated GIF" />
+<img src="https://github.com/TheYanVictor/TheYanVictor/blob/main/roger-vs-barba-branca.gif" alt="This will display an animated GIF"/> 
 
 -------
 <h2>My Social Media </h2>
